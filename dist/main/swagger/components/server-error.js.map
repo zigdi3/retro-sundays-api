@@ -1,0 +1,1 @@
+{"version":3,"file":"server-error.js","sourceRoot":"","sources":["../../../../src/main/swagger/components/server-error.ts"],"names":[],"mappings":";;;AAAa,QAAA,WAAW,GAAG;IACzB,WAAW,EAAE,qBAAqB;IAClC,OAAO,EAAE;QACP,kBAAkB,EAAE;YAClB,MAAM,EAAE;gBACN,IAAI,EAAE,iBAAiB;aACxB;SACF;KACF;CACF,CAAA"}

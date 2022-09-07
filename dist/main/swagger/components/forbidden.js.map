@@ -1,0 +1,1 @@
+{"version":3,"file":"forbidden.js","sourceRoot":"","sources":["../../../../src/main/swagger/components/forbidden.ts"],"names":[],"mappings":";;;AAAa,QAAA,SAAS,GAAG;IACvB,WAAW,EAAE,qBAAqB;IAClC,OAAO,EAAE;QACP,kBAAkB,EAAE;YAClB,MAAM,EAAE;gBACN,IAAI,EAAE,iBAAiB;aACxB;SACF;KACF;CACF,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"bad-request.js","sourceRoot":"","sources":["../../../../src/main/swagger/components/bad-request.ts"],"names":[],"mappings":";;;AAAa,QAAA,UAAU,GAAG;IACxB,WAAW,EAAE,qBAAqB;IAClC,OAAO,EAAE;QACP,kBAAkB,EAAE;YAClB,MAAM,EAAE;gBACN,IAAI,EAAE,iBAAiB;aACxB;SACF;KACF;CACF,CAAA"}
