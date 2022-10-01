@@ -7,24 +7,20 @@ const components_1 = __importDefault(require("./components"));
 exports.default = {
     openapi: '3.0.3',
     info: {
-        title: 'API-Unidas-PIX',
+        title: 'API-Retro',
         description: '',
         contact: {
-            name: 'Sistemas Seminovos',
-            url: 'https://www.unidas.com.br',
-            email: 'sistemas.seminovos@unidas.com.br'
+            name: 'Sistema RetroGames',
+            url: 'https://www.retrogames.com.br',
+            email: 'suportes@retrogames.com.br'
         },
         version: '1.0.0'
     },
     servers: [
         {
-            url: 'http://localhost:5050/api',
+            url: 'http://localhost:8085/api',
             description: 'Local Server'
         },
-        {
-            url: 'http://hmlprojetos.unidas.com.br:5050/api',
-            description: 'Development Server'
-        }
     ],
     components: components_1.default
 };
